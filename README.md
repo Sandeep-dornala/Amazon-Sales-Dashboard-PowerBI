@@ -7,8 +7,7 @@ An interactive Amazon Sales Performance Dashboard developed using Microsoft Powe
 The dashboard transforms raw sales data into meaningful KPIs, visualizations, and business insights to support data-driven analysis and decision-making.
 
 ## 📊 Dashboard Preview
-
-![Amazon Sales Performance Dashboard](Amazon-Sales-Performance-Dashboard-2025-PowerBI-Screenshot.png)
+![Amazon Sales Performance Dashboard](./Amazon-Sales-Performance-Dashboard-2025.png)
 
 🛠️ Tech Stack
 Power BI | DAX
