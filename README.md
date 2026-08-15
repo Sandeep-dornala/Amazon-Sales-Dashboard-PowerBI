@@ -26,10 +26,11 @@ The dashboard transforms raw sales data into meaningful KPIs, visualizations, an
 
 📌 Key KPIs
 
-KPI| Value
-Total Sales| 244K
-Total Orders| 250
-Total Quantity| 714
+| KPI | Value |
+|---|---:|
+| Total Sales | 244K |
+| Total Orders | 250 |
+| Total Quantity | 714 |
 
 📈 Dashboard Features
 
