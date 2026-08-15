@@ -71,9 +71,11 @@ Power BI | DAX
 
 📂 Repository Files
 
-- "Amazon-Sales-Dashboard-PowerBI.pbix" – Power BI dashboard
+- "Amazon-Sales-Performance-Dashboard-2025.pbix" – Power BI dashboard
+- - "Amazon-Sales-Performance-Dashboard-2025.png" – Power BI dashboard screenshot
 - "amazon_sales_data_2025.csv" – Dataset used for analysis
 - "README.md" – Project documentation
+  
 
 🚀 Project Outcome
 
