@@ -6,6 +6,9 @@ An interactive Amazon Sales Performance Dashboard developed using Microsoft Powe
 
 The dashboard transforms raw sales data into meaningful KPIs, visualizations, and business insights to support data-driven analysis and decision-making.
 
+🛠️ Tech Stack
+Power BI | DAX
+
 🎯 Objective
 
 - Analyze overall sales performance.
